@@ -1,0 +1,371 @@
+X: 1
+T:Muiñeira de Poio
+M:6/8
+L:1/8
+Q:200
+C:Trad
+R:Muiñeira
+K:C
+G2 E F2{B}A |G2E {G}EDE | F2{G} D {G}DCD | E2 {B,}C- C3 
+G2 E F2{B}A |G2E {G}EDE | F2{G} D {G}DED | {B,}C6 :|
+|: F2{G} D {G}DCD | E2 C {G}CB,C | DEF {c}FED | E {B,}C2-C3 |
+F2{G} D {G}DCD | E2{F} C {G}CB,C| DEF {c}"~"FED| {B,}C6 :||
+
+X: 2
+T:Muiñeira dos nenos
+M:6/8
+L:1/8
+Q:200
+C:Trad.
+R:Muiñeira
+K:C
+c3 |: BAG FED | E3 {G}EDE | F3 {c}FEF |
+G2 E c3 | BAG FED | E3 {G}EDE | FDF {B}AGF |1 E3 c3 :|2
+E3 {G}EFG |: {c}G2E {G}EFG | "~"A2F {c}FGA |BcB AGF |
+GFE {G} EFG | {c}"~"G2E {G}EFG | "~"A2F {c}FGA | BcB AGF |1
+E3 {G}EFG :|2 E3 || 
+
+X: 3
+T:A bolboreta
+M:6/8
+L:1/8
+Q:200
+C:Magoia Bodega
+R:Muiñeira
+K:C
+GAG |: E3 {G}ECD | E3 GAG | F3 {c}FDE | F3 {c}FGF | D3 {G}DB,C|
+D3 FGF | D3 {G}DCB, |1 C3 GAG :|2 C3- CcB |: G3 FEF | G3- GcB|
+G3 {c}GAG | F3- FBA| F3 {c}FDE | F3- FBA| F3 {c}FGF |1 E3- EcB :|2
+K:Cmin
+M:3/4
+|: =E4 C2 | E4 C2| D4 =B,2| D4 =B,2| C4 E2 | G4 A2 | F4D2| =B,4C2 | D4 =
+B,2 |1 C4 {G}C2 :|2 
+C3 ||
+
+X: 4
+T:Muiñeira
+M:6/8
+L:1/8
+Q:200
+C:Trad
+R:Muiñeira
+K:C
+CDE |: CDE CDE | F2D B,CD | B,CD |B,CD |E2C {G}CDE|
+CDE CDE |F3 {c}FGF |EFE DED | {B,}C3 {G}CDE :| |: F3 {c}FGF |
+E3 {G}EFE | D2 {G}D {G}"~"DCD |"~"E2C {G}CDE |F3 {c}FGF |E3 {G}EFE |
+D2{G}D {G}"~"DED |1 {B,}C3 {G}CDE :|2 {B,}C3
+
+X: 5
+T:Danza do Galo
+M:6/8
+L:1/8
+Q:100
+C:Trad
+R:Muiñeira
+K:C
+G>AG |: "tr."E>DC G>AG | "tr."F>ED  G>AG | "tr."F>ED G>AG | "tr."E>DC G>
+AG |
+"tr."E>DC G>AG| "tr."F>ED G>AG | B Z2 Z3 | Z>AG F>ED |1 {B,}C3 G>AG :|2
+"segunda voz: una tercera abajo" {B,}C3 c3
+|: B>cB A>BA | "tr."G2E G>AG | "tr."F2D A>BA | "tr."G2E c3|
+B>cB A>BA | "tr."G2E G>AG | B Z2 Z3 | Z>AG F>ED |1 {B,}C3 c3 :|2 {B,}C3-
+C>{G}EF |:
+G2{c}G A2{c}A | G2{c}G A2{c}A |G2{c}G F>EF | G E2-E>{G}EF |
+G2{c}G A2{c}A |G2{c}G A2{c}A |G2{c}G F>ED |1 {B,}C3- C>EF :|2 {B,}C3 ||
+
+X: 6
+T:Ribeirana
+M:6/8
+L:1/8
+Q:200
+C:Trad
+R:Ribeirana
+K:C
+EG |: {c}GEG {c}GEG | {c}"~"GEC "F."cEG | {c}GEG {c}GEG |
+_B2A "F."cFA | {c}AFA cFA | {c}AFA cFA | {c} AFA cFA|
+GEC "F."cEG :| c"F."gc ABA |GEC "F."cEG | {c} "~"GFE DEF |
+{B}A2G "F."cEG | c"F."gc ABA |GEC "F."cEG | {c} "~"GFE DED |
+{B,}C3 ||
+
+X: 7
+T:Muiñeira do Abrente
+M:6/8
+L:1/8
+Q:200
+C:X. Estévez
+R:Muiñeira
+K:C
+c AFA |: G2c AFA | G2c AFA | GEG FDA| GCc AFA|
+G2c AFA |G2c AFA | GEG FDG |1 C2c AFA :|2 C3 AGA |: F2E GFG |
+E2D CDE | FGA BcB | "~"A2G AGA |"~"F2E GFG | E2D CB,C |
+DEF GAB |1 c3 AGA :|2 c2  ||
+
+X: 8
+T:Muiñeira da Padarnela
+M:6/8
+L:1/8
+Q:200
+C:Evaristo González
+R:Muiñeira
+K:F
+AFD |: AFD AFD | {B,}C2 {G}C {G}CEF | {c}GAG F2E |
+{c}FED AFD | AFD AFD | {B,}C2 {G}C {G}CEF | GAG F2{c}"~"E |1
+D3 AFD :|2 D3 {G}DEF |: {G}FEF {c}GFE | {c}FED {G}DEF |
+{c}FEF {c}GFE | {B,}F3 {c}FGA | {c}AGA BAG| {c} AGF {c}FGA |
+{c}AGA F2{c}"~"E |1 D3 {G}DEF :|2 D3 ||
+
+X: 9
+T:Muiñeira de Negros
+M:6/8
+L:1/8
+Q:200
+C:Trad
+R:Muiñeira
+K:C
+c cBc |: AGA cG2 | E2 G G G2 | FEF AF2|
+D2 c cBc | AGA cG2 | E2 G G G2 | FEF AG2|
+C2 G G G2 | EEE E F2 | D2 G GG2| FEF AG2|
+E2 G GG2 |  EEE E F2 | D2 G G G2| FEF AG2|
+C2 GG2G| ECE GF2 | D2D DB,D | DB,D AG2|
+E2E ECE | ECE GF2| D2D DEF |AGE GFD |1
+C2 c cBc :|2 C6 | 
+
+X: 10
+T:Muiñeira de Coia
+M:6/8
+L:1/8
+Q:200
+C:Carlos Justo
+R:Muiñeira
+K:CMin
+c2B |: ABc FGA |C3 B2A | GAB c2c|
+AGF c2B| ABc FGA |C3 B2A | GAB c2c |1 F3 c2B :|2
+F3 G2F
+K:C
+|:
+EFG CEC | G3A2G | FDE FGA |GEC G2F|
+EFG CEC | G3 A2G | FDE FED|1 C3 G2F :|2 C3 c2_B |
+K:Cmin
+ABc FGA |C3 B2A | GAB c2c | AGF c2B | ABc FGA|
+C3 B2A | GAB c2c |
+K:F
+| F3 FAc |: BAG FED |D2C CEG | EGB GBG | cAF FAc | BAG FED |D2C CEG |
+EGB GBG |1 F3 FAc :|2 F3 EFG
+K:C
+|: GEG GEG | B2A FGA |
+B2A FGA | A2G EFG | GEG GEG | B2A FGA|
+BAG FED |1E3 EFG :|2 C3 ||
+
+X: 11
+T:Muiñeira (de Lugo)
+M:6/8
+L:1/8
+Q:150
+C:Trad
+S:Cancionero de Bal y Gay, nº597
+R:Muiñeira
+K:C
+G>GG |: G>FE D>EF |G>AG A>AA |A>GG cGG|
+F2E C>ED | C>EE E>DC |A2F C>ED | C>DC B,>CD |
+E2C C>ED |C>EE E>DC | A2F C>ED | C>DC B,>CD|1
+C2C G>GG :|2 C2 C A>AA 
+K:F
+|: c>Ac c>BA| B2G G>GG | 
+B>GB B>AG | A2F A>AA | A>DE FGA | c2B B>cB|
+ABA GAG |1 F2F A>AA :|2 F2F ||
+
+X: 12
+T:Muiñeira de Pontesampaio
+M:6/8
+L:1/8
+Q:200
+C:Trad
+S:Cancionero de Inzenga
+R:Muiñeira
+K:CMin
+G |: C2D E2F | GAG c=Bc | GAG FED |
+E2C- C2 G| C2 D E2F | GAG c=Bc | GAG FED |1
+C3- C2 G :|2 C3- CGF |: EFG GFG |A2 F F=EF |
+DEF F=EF | G2E EDE |CDE EDE |F2D DCD |
+=B,CD E2D |1 C3-C GF :|2 C2c c=Bc |: d2 AG2 ^F |
+G2 c c=Bc | d2 A G2 ^F | G3 GAG | FGF EFE | 
+D2C GAG | FGF E2D |1 C2 c c=Bc :|2 C3- CDE |:
+FGF- FDE | FGF- FDE |F2A G2F |GFE- EDE |
+FGF- FDE | FGF- FDE F2AG2G |1 CEG cDE :|2 CEG c2
+
+X: 13
+T:Pasodoble do Carballal
+M:2/4
+L:1/16
+Q:200
+C:Benigno Méndez
+R:Pasodoble
+K:C
+E2F2 |: G4 A2B2 | c4 B2c2| A2G2- G4- | G4 E2F2|
+G4A2G2 | B4 A2G2| F8- | F4 D2E2 |F4 G2A2| B4 A2B2 |
+G2F2- F4- | F4 D2E2 | F4 G2F2 | A4 G2F2 |E8- |1 E4 E2F2 :|2
+|: E4 G2A2 | GAGF E4-| E4 F2G2 | ABAG F4- | F4 G2A2 | B4 A2G2 |
+A4 G2F2 | GAGF E4-| E4 G2A2 | GAGF E4- | E4 F2G2 | ABAG | F4- |
+F4 G2A2 | B4 A2G2 | A4 G2F2 | E8-  :| E4 ||
+
+X: 14
+T:Danza das Burgas
+M:2/4
+L:1/8
+Q:400
+C:Trad
+R:Pasodoble
+K:C
+G2 |: c2BA |GFED |C3 E | DCDE |F3G |
+FDEF |G3A | GCEG | c2 BA| GFED |C3 E |
+DCDE | F3A | GFED |C2 E2 |1 C2G2 :|2 C2EF|
+|: "segunda voz una tercera abajo"G4- | G2 A2 |G4-| G2 c2 |B3A | G2 AB |
+ c2BA |G2EF |
+G4- | G2 A2 |G4-| G2 c2B3AG2AB |c4-|c2 EF :|
+|: "segunda voz, repite la parte anterior"GECE | GEAE |GECE |GEAE |GF DE
+| FDEF |GECE |EDEF |
+GECE | GEAE | GECE |GEAE | GFDE | GFED |CEGE |1 C2 EF :|2 C2G2 ||
+
+X: 15
+T:Marcha de Procesión (1, de Pontevedra)
+M:6/8
+L:1/16
+Q:200
+C:Trad
+R:Marcha
+K:C
+G2 |: c4"~"G2 E2CDEF | AGEGFD GEC2G2 | c4 "~"G2 E2 CDEF |1
+AGEGFD C4 G2 :|2 AGEGFD C4 E2 |: D3B,D2 "~"E2CDEF | AGEGFD GE C2G2|
+"~"D3B,D2 "~"E2CDEF |1 AGEGFDC4 E2 :|2 AGEGFDC4 G2 ||
+
+X: 16
+T:Marcha de Procesión (2)
+M:6/8
+L:1/16
+Q:250
+C:Trad
+R:Marcha
+K:C
+cBcGEF G3ECE | DEFDB,D CDEFG2 | cBcGEF G3ECE |
+DEFDB,D C6 :||: DB,DB,DF EGECEG | FDB,DGE GEFDC2|
+DB,DB,DF EGECEG | FDB,DFE GEFDC2 :||: D4F2E4G2|
+F4A2G4E2 | D4F2E4G2 | A2GEFD C6 :||
+
+X: 17
+T:Marcha de Procesión (3, Vilacán)
+M:6/8
+L:1/16
+Q:200
+C:Trad
+R:Marcha
+K:C
+G2 |: F2DEF2 G2D2G2 | F2DE F2 C4 G2| F2DEF2 G2D2G2|
+F2DEF2 C4 c2 | B2GAB2 c2B2c2| B3Ac2 B2G2B2 | A2GABc d4G2|
+A2GABA G4 G2 :||
+
+X: 18
+T:Pasacorredoiras de Sárdoma
+M:2/4
+L:1/8
+Q:350
+C:Nazario Gonzalez (Moxenas)
+R:Pasacorredoiras
+K:C
+ EF |: G2 FG | c2BA |G E3- | EG FE | F2DF | c2B2|
+GE- E2- | EGEF |G2FG |c2BA | G E3- |EG FE |F2 DF | BA FD-|1
+E4-|EGEF :|22 E4- | E3E|: GF/E/ DE | F3F | AG/F/ EF | G3E |
+GF/E/ DE | FG AB | GE FA | G3E | GF/E/ DE | F3F | AG/F/ EF | 
+G3E | GF/E/ DE | FG AB | GE FD- | E4- |1 E3E :|2 EG ||
+
+X: 19
+T:Pasacorredoiras de Pontearéas
+M:2/4
+L:1/16
+Q:140
+C:Trad
+R:Pasacorredoiras
+K:C
+EF |: G2cB dcBA | AGFA G2GF | AGFE D2FE |
+GFED C2EF | G2cB dcBA |AGFA G2GA | Bcdc BGAB |1
+c6 EF :|2 c6 FA |: FAFA FAFA | EGEG EGEG  | DFDF DFDF|
+EDEF G2E2 |FAFA FAFA| EGEG EGEG| DFDF DFED | C8:| 
+
+X: 20
+T:Foliada da Xunqueira
+M:3/4
+L:1/8
+Q:200
+C:E. Otero
+R:Foliada
+K:C
+CE CE |: G2 CEG2 |C2 CE CE |G2 FE F2- | F2 DF DF |
+A2 GF G2| FE DE FA | GF ED G2| C2 CE CE | G2 CE G2|
+C2 CE CE| G2 FE F2- |F2 DFDF |A2 GF G2| FE DE FA |
+GF ED C2- |C6- |1 C2 CECE :|2 C2 G3F |E2DEF2|
+F2GF ED | F2ED C2 | C6- |C2 D2 E2 | F2D2 G2-|
+G2 F4 |EF ED C2- |C2 E2 F2 |: G4 E2 | c4G2 |
+AB AG F2- | F2 D2 E2 | F4 D2 |B4 A2 | GA GF E2- |
+E2E2F2 | G2E2 c2- |C2 G4| AB AG F2- |F2 D2 E2 |
+F2D2 B2- | B2 A4 |GA GFE2- |1 E2E2 F2 :|2 E6- | E2 ||
+
+X: 21
+T:Jota de Pontevedra
+M:3/8
+L:1/16
+Q:72
+C:Trad
+R:Jota
+K:C
+"F."c2 EDEF | GF AG E2- | E2 cB AG | FE GF D2- |
+D2 CB, DC | ED FE GF | AG FE FD |1 GF AG E2 :|2 ED B,D C2-
+|: C2 GE CE | GE CE GE | C2 GE CE | GE CE GE | D2 GF DF |
+GF DF GF | D2 GF DF | GF DE CC :| |: EC CC EC |
+EC CC CC | EC CC EC | FD DD DD | FD DD FD |
+FD DD DD | FE GFED | EC CC CC :| "F."c2 CEEC |:
+CE EC C2 | "F."c2 CE EC | CE EC D2 | "F."c2 DF FD |
+DF FD D2| "F."c2 DF FE |1 GF ED C2- | C2 CE EC :|2 
+GF ED C2 ||
+
+X: 22
+T:Na fonte da Falperra
+M:2/4
+L:1/16
+Q:150
+C:Carlos Justo
+R:Polca
+K:C
+CEG |: c2ce dcBA | G8| BcAB GAFG |EFDE CCEG |
+c2ce dcBA |G8 | BcAB GAFG |1 E4- ECEG :|2 E4-E2G2 |:
+G2EG cBcA | G2EG cBAG | F2DE FDEF | EDEF G2G2 | G2EG cBcA |
+G2EG cBAG | F2DG GFED |1 C4- C2E2 :|2 C2EG c4 |: A2GA _B2G2 |
+F2A2 c4 | _B2A2 GABc | d2c6 | A2GA _B2G2| F2A2 c4 |
+_BcAB GBAG |1 F8 :|2 F4- F||
+
+X: 23
+T:Fandango para Leirado
+M:3/8
+L:1/16
+Q:60
+C:X. Freijeiro
+R:Fandango
+K:C
+CDEF | G4 G2 | c2B2A2 | G2AGF- | F2 DEFG | A3GF2 | 
+A2G2F2 | A4G2- | G2CDEF | G4 G2 | c2B2A2 | G2AGF- |
+F2FGAB | G3EG2 | A3cB2 | c6- |
+K:CMin
+c2CDEF | G4G2 | 
+c2B2A2 | G2AGF- | F2DEFG | A3GF2 | A2G2F2 | A4G2- |
+G2 CDEF | G4 G2 | c2B2A2 | G2AGF2- | F2FGAB | G3EG2|
+A3c=B2 |c6- |
+K:C
+c3CD2 | E3DC2 | E2F2G2 | E3DC2 | 
+E2F2G2 | D3CB,2| F2G2A2 | E3DC2- | C3CD2| E3DC2 |
+E2F2G2 | E3DC2 | E2F2G2 | D3CB,2| D2E2D2 |C6- |
+K:CMin
+| C3CD2 | E3DC2 | EDEFGF | EFEDC2 | EDEFGE | DEDC=B,2 |
+FEFGA2 |GAGFED | EDC=B,CD | E3DC2 | EDEFGF | EFEDC2 |
+EDEFGE | DEDC=B,2| DCDEFD | C6- | 
+K:C
+| C2 ||
+
+% Output from ABC2Win  Version 2.1 h on 8/02/99

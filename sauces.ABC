@@ -1,0 +1,520 @@
+X: 1
+T:Marcha procesional de San Benito
+M:2/4
+L:1/16
+Q:100
+C:Trad.
+R:Marcha
+A:Galicia
+N:Repertorio básic
+K:D
+FE |: D4 {A}D3F | A8 | B6 cd | A4 F3 {d}F | {d}F4 (3D2E2F2| 
+E8| A3G F3E | D4 {A}D3{E}D | {C}D6 FE
+D6 FE 
+| D4 {A}D3F | A8| B6 cd | A4 F4 | {d}F4 (3E2F2E2 | D4 {d}D3{E}D |
+1
+ {C}D6 FE :|2
+D8 |:
+F8 | D4 (3E2D2E2 | F8 | D4 {A}D4 | E8 | C4 {A}(3C2D2E2 | F4
+(3G2F2E2| D8 | F8 | D4 {A}(3D2E2F2| G8 | 
+E4 {d}(3E2F2G2| F4 (3D2E2F2| E4 (3C2D2E2| D4 {A}D3{E}D |1 {C}D8 :|2 D6
+FE ||
+
+X: 2
+T:Marcha del Corpus de Pontevedra
+M:3/4
+L:1/8
+Q:170
+C:Trad.
+R:Marcha
+A:Pontevedra
+K:D
+d2 AFDA| d2 AFDF | AG {A}GECE | BA {B}AF D2| d2 AFDA| d2 AFDF | AG {A}G
+ECE | D2 {A}
+D4 
+:||: G2 {A}GFGA | F2 {G}FDFA | E2 {F}ECEB | AGFE D2| G2 {A}GFGA |
+F2 {G}FDFA | E2
+{F}ECEA | D2 {A} D4 :||
+
+X: 3
+T:Himno do Antergo Reino de Galicia
+M:2/4
+L:1/16
+Q:100
+C:Trad.
+R:Marcha
+A:Galicia
+N:Repertorio básic
+K:D
+C4 D4 | E6 DE | F2EF GFEF | D8{A} | D4E4 | F6 EF| G2FG AGFG | E8 
+:| C4
+D4
+| E6 DE | F2EF GFEF | D4 {A}D2{A}D2 
+|: d2c2 B2A2 | G4 {A}GFGA | G4 {A}GFGA | G6 AB| c2d2 B2c2 | A4 {B}AGAB |
+A2FA G2E
+G |1 F4 {d}F2{d}F2 :|2 F8 ||
+
+X: 4
+T:Scotland the Brave
+M:4/4
+L:1/16
+Q:260
+C:Trad.
+R:Marcha
+A:Escocia
+N:Repertorio básico
+K:D
+A4 |: D4{A} D3E F2D2 F2A2 | d4{a} d4{a} d2A2 F2D2 | G4 B3G F2A2
+F2D2 |1 E4 A4 {B} A4 {B}
+AGFE :|2 E4 D3E D4 
+|
+F2A2 
+| d4{a} d3c d2A2F2D2 | d4{a} d3c d2A2F2D2 | d4{a} d3c B4 d2
+c2 
+| B2 d2c2 B2 A2
+G2F2E2 
+|
+D4{A} D3E F2D2 F2A2 | d4{a} d3c d2A2F2D2 | G4 B3G F2A2 F2D2 | E4
+D3E D4 
+||
+
+X: 5
+T:Regimental March
+M:6/8
+L:1/8
+C:Trad.
+R:Marcha
+A:Escocia
+N:Repertorio básico
+K:D
+A |: F2{d} F {G}FED | FGA B2A| D2 F {G} FED | E3{A} E2 A | D2 F {G}
+FE
+D
+| FGA B2A| D2 F E2 F | D3{A} D2 A :|
+d2 A B2A | d2 A B2 A| D2 F {G} FED | E3{A} E2 A | d2 A B2A | d2
+A B2 A| D2 F E2 F | D3{A} D2 A |
+d2 A B2A | d2 A B2 A| D2 F {G} FED | E3{A} E FG| A2 F E2 D | {A}DFA
+B2 A| D2
+F E2
+ F 
+| D3{A} D2 
+||
+
+X: 6
+T:Paso Ledo
+M:2/4
+L:1/8
+Q:250
+C:Xan Tilve (gaiteiro de Campañó)
+R:Pasodoble
+A:Galicia
+N:Repertorio básic
+K:D
+{C}D2E2 | FA FD | EG EC | DE F2 | D2 E2 | FA FD | EG EC |1 D4 
+:|2 D3
+ F/2
+A/2 
+|
+ dA FD | dA FD | dA FD | E3 F| GE CE | GE CE | AG FE |1
+ F2 D F/2A/2 
+|2 D4
+||
+
+X: 7
+T:Pasodoble Noso
+M:2/4
+L:1/16
+C:Trad.
+R:Pasodoble
+A:Galicia
+K:D
+D2F2A2| D6 A2| d2c2B2A2 | D6 A2 | d2c2B2A2 | c6 d2 | c2B2A2G2 | A4{d}
+ABAG
+| F2 D2F2A2 | D6 A2 | d2c2B2A2 |D6 A2| d2c2B2A2 | c6 d2 | c2B2A2G2 | F8-
+| F2 
+:| 
+|: F2{G}F2G2 
+| A4{d} ABAG | F2{d} F2G2A2 | B4{d}
+BcBA | G2{d} G2A2B2 | c6 d2| c2
+B2A2G2 
+| A4{d} ABAG | F2{d} F2{G}F2G2 | A4{d} ABAG | F2{d} F2G2
+A2 | B4{d} BcBA | G2{d} G2A2B2
+| c6 d2| c2A2B2c2 | d8- | d2 
+:|
+
+X: 8
+T:Jota Popular
+M:3/4
+L:1/8
+Q:200
+C:Trad.
+R:Jota
+A:Galicia
+K:D
+DF DF | AF DF DF | AF DF DF | !
+AF DF DF | E2 CE CE | GE CE CE | !
+GE CE CE | AB AGFE |1 D2 {A }
+:|2 
+D6- | D2 E2 D2 |: C4 D2 | 
+E4 G2 | F3 E D2-| D2 F2 E2 | 
+D4 E2 | F4 A2 | G3 F E2- | 
+E2{d} E2"     3 veces" D2 :| C4 D2 | E4 G2 | 
+F3 E D2- | D6- | D2{A} 
+||
+
+X: 9
+T:Muiñeira de Freixido
+M:6/8
+L:1/8
+C:Trad.
+R:Muiñeira
+K:D
+DEF|{G} FED FED | A2F DEF| {G}FEF GAB | A2F DEF|{G} FED FED | A2F DEF|{G
+}FDF ECE |
+D3 
+:|
+| ABc 
+| d3- d=cB | =c3- cBA | B3- BAG | AFD ABc | d3- d=cB | =c3- cBA |
+B3- BAG | A2F 
+|: DEF 
+| G2B {c}BAG | A2F DEF | G2B {c}BAG | A3- AGF | 
+EA3 (3GFE | D3 
+:|
+
+X: 10
+T:Muiñeira de Lugo
+M:6/8
+L:1/8
+C:Trad.
+R:Muiñeira
+A:Galicia
+N:Repertorio básic
+K:D
+dc| A4 dc | A4 dc | ABA EFG | "~"B2 A2 dc| A4 dc | A4 dc | ABA GFE |1 D4
+:|2
+|: 
+D"F."A D {C}D"F."A D | {C}D2 E FDE | C2 E {D}E"F."A E | {D}E2 F GEF |
+D"F."A D {C}D"F."A D| {C}D2 E FDE | C2 G{D}
+GAG FGF EFE 
+:| {C}D4 
+||
+
+X: 11
+T:Loliña
+M:6/8
+L:1/8
+C:Rosendo Mato Hermida
+S:Rep: Ricardo Portela
+R:Muiñeira
+A:Galicia
+K:D
+ABc | dcB ABc | "~"B2A AGF | 
+EFG EFG | "~"G2F ABc | dcB ABc | 
+B2A AGF | EFG ABA | F3 :| AGF | 
+AGF AGF | A3 AGF | EFG EFG | G2F AGF | AGF AGF| A3 AGF | BAG EGE |
+F3 
+| K:DMin
+|: DEF
+| {G}FED ABA | GFE {F}EFG | 
+{A}GFE GAG | FED {E}DEF | {G}FED FED | 
+G3 BAG | FED CDE | D3 :|
+|K:D
+AFA 
+| {d}AFA BAF | G2E GEG | {d}GEF GAB | A2F AFA | {d}AFA BAF |G2E GAB
+|
+cBA GFE | D3 
+:||
+
+X: 12
+T:Pasacorredoiras de Pontevedra
+M:2/4
+L:1/16
+Q:90
+C:Trad.
+R:Pasacorredoiras
+A:Rias Baixas
+K:D
+A2 | F2{G}FD FDFG | A2{B}AF AFAF| G2{A}GE GEGB| AGFE D2A2| F2{G}FD FDFG|
+A2{B}AF AFAF |
+G2{A}GE GECE |1 {C}D6 
+:|2 
+|: {C}D8 | B3G B3G | A2F2 DEFG |A2Bc dcBc| A4 FDFA | dcBA BAGF |AGFG
+E2FG
+| A2FD FGEC :| D4
+
+X: 13
+T:Cantiga 100 'Santa María, Strela do Día'
+M:4/4
+L:1/4
+Q:80
+C:Alfonso X el Sabio
+S:Rep. Jose Mª Hernansáez
+R:Cantiga
+K:F
+A2 GF | E2 {d}E F| G2 A2 | D2 {A}D2| A2 
+GF| E2 DE| FEDC | D4 
+:| G2 A2 | 
+=B3 A| c=BAB| G4| {d}G2 A2| =B3 A| 
+c=BAG| A4 |=B2 c2 |d3 =B| c d c/2=B/2A |
+=B4 |{d}=B2 {d}B2| {d}=B3 A|c =B A B |G4 |
+
+X: 14
+T:Cantiga 353 'Quen a omagen'
+M:2/4
+L:1/8
+Q:300
+C:Alfonso X el Sabio
+S:Rep. Jose Mª Hernansáez
+R:Cantiga
+K:F
+D2A2 | {d}A3 G | F2 {G}FG | A3 D | {A}D2 A2 | {d}A3 G |
+FE D2 | F4 | D2 A2 | {d}A3 G | F2 {G}FG | A3 D | F2 A2 |
+{d}A3 G | FE D^C | D4 
+||
+A2 =B2 | G3 A | =B2 cB | A3 G | A2 {d}AB | A3 G | F2 G2 |
+F4 | A2 =B2 | G3 A | =B2 cB | A3 G | A2 {d}AB | A3 G | FE D^C | D4 
+:|
+
+X: 15
+T:Cantiga 169 'a la Arrixaca'
+M:3/4
+L:1/4
+Q:100
+C:Alfonso X el Sabio
+S:Rep. Jose Mª Hernansáez
+R:Cantiga
+N:En las marcas de la partitura van tresillos
+K:D
+E | FED | EEF | A2 A | BB =c | BBA |
+GAF | G3 | A/2B/2 BA | G A/2G/2 F | E D2 | D D E | 
+GGE | FED | E2 
+:| d 
+| B d2 | e dc| B2A | B 
+B =c| B/2A/2 G A | =c B A | B2 d| B d2| edc| B2 A| 
+BB =c | BA/2G/2 A| =cBA| B2 E | FED | EEF | A2 
+A | BB=c| B/2A/2B G | G A F | G3 | A/2 B/2 BA| G A/2G/2 
+F | E D2 | D D E | G G E| F E D| "E.C."E2 
+|
+
+X: 16
+T:San Pelaio
+M:2/4
+L:1/16
+Q:200
+C:Trad
+R:Pasodoble
+K:D
+d4 A2F2 | d4 A2F2 | d4{a} d4- | d2A2G2F2 | d4 A2F2 |
+ d4 A2c2 | B4 {D}B4-
+| B8 | d4 c2B2 | A4 G2F2 |
+c4 {D}c4- | c2A2G2F2 | B4 {D}B4- | B2G2E2G2 |1 F8- | F8 
+:|2|: F8- | F2{d} F2G2A2 | B2cB A4- | A2F2G2A2 | B2cB A4- |
+A2F2G2A2 | B6 c2 | B2A2G2F2 | A2BA G4- | G2E2F2G2| A2BA G4- | G2E2F2G2 |
+A2BA G4- | G2E2F2G2 | c6 d2 | c2B2A2G2 :| F8- | F8
+
+X: 17
+T:San Pelaio (2ª voz)
+M:2/4
+L:1/16
+Q:200
+C:Trad.
+R:Pasodoble
+K:D
+A4 F2D2 | A4 F2D2 | A4 {D}A4- | A2F2E2D2 | A4 F2D2 | A4 F2A2 | G4 {D}G4-
+| G8 | B4 A2G2 | F4 E2D2 | 
+A4 {D}A4- | A2F2E2D2 | G4 {D}G4- | G2E2C2E2 |1 {C}D8- | D8 
+:|2|: {C
+}D8- | D2{A} D2E2F2 | G2AG F4- | F2D2E2F2 |
+G2AG F4- | F2D2E2F2 | G6 A2 | G2F2E2D2 |F2GF E4- | E2C2D2E2 | F2GF E4-
+| E2C2D2E2 |F2GF E4- | E2C2D2E2 |
+A6 B2 |A2G2F2E2 :| {C}D8- | D8 ||
+
+X: 18
+T:Marcha de Breixo
+M:4/4
+L:1/8
+Q:110
+C:Trad
+S:Rep: X.M.Budiño
+R:Marcha
+K:D
+F2 | A2 {B}A2 {B}A2 G2 | B2 {c}B2 c2- d2 | A3 GF E2 F/2G/2 |1 A6 
+:|2
+A2 (3FAF D4- |: D3 FE3 E/2D/2 | E4- E3 F | A G2 F{G}F E2 C/2D/2 | E4- 
+E3 F | A G2 F{G}F E2 C/2D/2 | EF GFA G2 E/2C/2 | D4- 
+:| D3 
+||
+
+X: 19
+T:A Xeito de Marcha
+M:2/4
+L:1/8
+Q:200
+C:Xose Lois Foxo
+R:Marcha
+K:D
+AG FE | DE FG | AG FE | F2D2 | AG FE | DE FG | 
+AG FE |1 D4 :|2 D4 |: {A} DE FG | FE D2 | AG FE | F2 DE | FG FE | D2 AG
+|
+{c}F2 {c} E2 |1 {B} D4 :|2 {B}D4 ||
+
+X: 20
+T:Pasodoble de Pastoriza
+M:2/4
+L:1/8
+Q:300
+C:Tradicional
+R:Pasodoble
+K:D
+F2 |: D4- | D2 F2 | E4- | E2 {c} E2 | C2 E2 | A2 G2 | F4- | F2 {B} F2 |
+D4- | D2 B2 | G4 | {c}G2 {D}G2 | F2 D2 | E2 C2 | D4- |1 D2 F2 :|2 DF GA
+|
+B2A2 | G2F2 | D4- | DF GA | B2A2 | G2F2 | A4- | AG FE |
+A2G2 | F2E2 | A4- | AB AG | A2 G2 | F2E2 | D4- | D2 ||
+
+X: 21
+T:Ouvese sonar unha gaita
+M:2/4
+L:1/8
+Q:200
+C:Trad
+R:Marcha
+K:D
+A3 G | FE FG | A2 {G}A2 | B3 A | GF EG | F4- |
+F4 :||: G3 A | BA GA | B2 {G}B2 | c3 d | cB AG | A2 {E}A2 |
+B3 c | BA GF | G2 {B}G2 | A3 B | cB AG | F2 {D}F2 | {D} F4 :||
+
+X: 22
+T:Tempo de Vals
+M:3/4
+L:1/4
+Q:200
+C:Trad
+S:X.L.Foxo
+K:D
+A2G | F2A | G2B | A2F | A2G | F2A | G2E | F3  | A2G |
+F2A | G2B | A2F | A2G | F2A | G2E | F3| AGF | E3 |
+BAG | F3 | AGF | E3 | BAG | F3 | ABc | d2A |
+F2B | A3 | dcB | A2 {c}A | GFE | D2 Z ||
+
+X: 23
+T:Danza de Tenorio
+M:2/4
+L:1/8
+Q:200
+C:Trad
+S:Rep. X.L.Foxo
+K:D
+A>B AG | F2 D2 | G>A GF | G2E2 | A>B AG | A2 EF |
+GE CE | D4 :||: (3DEF DF | {c}F2 E2 | {c}(3EFG  EG |
+{c}G2 F2 | A>{B}A BA | F2 EF | GE CE | D4 :||
+
+X: 24
+T:Pasacorredoiras da Barreira
+M:2/4
+L:1/16
+Q:100
+C:Trad
+S:X.L.Foxo
+R:Pasacorredoiras
+K:D
+DEFG | A4 {c}AGAB | A2F2 {c}FEFG | F2E2 {c}EDEF |
+E2D2 {c}DEFG | A4 {c}AGAB | A2F2 {c}FEFG | FEDF EDCE |
+D2{c}D2 {c}D4 | {c}DEFG A4 | {c}AGAB A2F2 | {c}FEFG F2E2 | EDEF E2D2 |
+{c}DEFG A4| {c}AGAB A2F2 |FEFG FEDF | EDCE D2{c}D2 |
+{G}D4 A2F2 | D2AB AGFG | E4 G2E2 | C2GA GFEF | D4 A2F2 |
+D2AB AGFG | E4 G2F2 | A2G2 F2E2 | D2{B}D2 {G}D4 | A2F2 D2AB |
+AGFG E4 | G2E2 C2GA | GFEF D4 | A2F2 D2AB |
+AGFG E4 | G2F2 A2G2 | F2E2 D2{c}D2 | {G}D4 ||
+
+X: 25
+T:Jota de Arbo
+M:3/4
+L:1/8
+Q:250
+C:Trad
+S:Rep. Euxemes de Arbo
+R:Jota
+K:D
+DEFA | d2A2F2| D2 {A} DFDF | d2A2F2 | E2 CECE | C2 A2G2| 
+E2 CECE | C2 AG FE |1 D2 {A} :|2 D6- |:D2{A} D2E2 | F4{d} F2 | E2D2
+E2| F2ED C2- | C2 E2F2 | G4 {d} G2 | F2E2F2 G2FE "     3 veces"D2- 
+:| D6-| D2{A}
+
+X: 26
+T:Marchiña
+M:2/4
+L:1/16
+Q:200
+C:Trad
+S:X.L.Foxo (la otra versión es repitiendo cada parte)
+R:Marcha
+K:D
+D3E |: F4D4- | D4 {c}E3F | G4E4- | E4 {c} F3G | A6 F2 | G6E2|
+FGFE D4- |1 D4 {B} D3E :|2 D2{B}D2 F2B2 |: A6F2 | G6 E2 | FGFE D4- | D2E
+2 F2G2 |
+EFED C4- |1 C2D2 E2G2 | FGFE D4- | D2{B}D2 F2B2 :|2 C2D2 E2F2 | D4 {B} D
+3{E}D | {B}D4 ||
+
+X: 27
+T:Asturias patria querida
+M:3/4
+L:1/8
+Q:170
+C:Trad
+B:Metodo de Gaita. Dayures
+K:D
+D |: F2F2 GF/2G/2 | AB A3 A | B2G2 BA/2G/2 |1
+AA/2G/2 F3 D :|2 AA/2G/2F2 DD/2D/2 |: BB/2A/2 BB cc/2B 
+|
+AF/2G/2 A2 BB/2A/2 | GE/2F/2 GG AA/2A/2 |1 BA/2G/2 F2 DD/2D/2 :|2 BA/2G/
+2 F4 ||
+
+X: 28
+T:Mazurca da Bretoña
+M:3/4
+L:1/8
+Q:200
+C:Trad
+S:Rep. P.Quintana
+R:Mazurca
+K:D
+D2 |: F2 DF DF | A2 E2 {C}E2 | A2 EA EA | {FG}F2 D2{C}D2 |
+F2 DF DF | A2  E2 {C}E2 | B2 AG FE |1 D4 {C}D2 :|2 D4 A2
+|: d2 cB AG | {FG} F2 DF DF | A2 EG FE | {FG}F2 D2 A2 | d2 cB AG |
+{FG}F2 DF DF | A2 EG FE |1 D4 A2 :|2 D2F2 A2 | d2||
+
+X: 29
+T:Na beira do mar
+M:2/4
+L:1/8
+Q:200
+C:Trad
+S:X.L.Foxo
+R:Pasodoble
+K:D
+A | F {c}F2 G | A{c}A2 B  c{G}c- cB | A3 c | B {c} B2 A | G{c}G2 B |
+A{G}A{c} AG | F3A | F{D}F {c}FG | A3 B | c{G}c {d}cB | A3c | B{d}B2 A|
+G{c}G2 B | A{c}A2G | F3-F|| c3 {G}c | B{G}B A{G}A | B2A2- | A4 | B3 {G}B
+ |
+A{G}A G{D}G | A2G2- | G4 | c3 {G}c | B{G}B A{G}A | B2 A2- A4 |: B3 {G}B
+|
+A{G}A G{D}G | AG AB | c4- | c A{c} A{G}A | G2 F2- |1 F4 :|2 F3 ||
+
+X: 31
+T:Minstrel Boy
+M:4/4
+L:1/8
+Q:200
+C:Trad
+S:J.Mª Hernansáez
+K:G
+D3 E GF ED | F3 A d2 c>d | B2A2 FG AF |1 
+E4 :|2 E4 D2 FA | d2 c2 B2 cd | c2 B2 A3 A | B3 F F3 A |
+B>A Bc d4 | D3 E GF ED | F2A2 d2 c>d | B2 A2 F>G AF |
+E4 D2 |: DF | A2FA d2 dB | A2 FD ^C2 D>E | F2 E>F AG E^C |
+ D2 D>E D2 | A B2 G>B d3B | A2 d>B A2 FA |
+B2 G>B d3B | A3 B AF DF | A2 FA d2 dB | A2 FD ^C2 D>E |
+F2 E>F AG E^C | D2 D>E D3 A | D4 ||
+
+% Output from ABC2Win  Version 2.1 h on 21/02/2000
